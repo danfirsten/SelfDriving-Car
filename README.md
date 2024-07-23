@@ -9,15 +9,9 @@ This project demonstrates a basic self-driving car simulation built from scratch
 
 [![Project Demo](https://img.youtube.com/vi/uAULUd40EkE/0.jpg)](https://www.youtube.com/watch?v=uAULUd40EkE)
 
-## Features
+Click the image to watch the video on YouTube.
 
-- **Car Driving Mechanics**: Implemented basic car physics and control mechanisms to simulate realistic driving behavior.
-- **Artificial Sensors**: Equipped cars with sensors to detect distances to obstacles and other cars in the environment.
-- **Collision Detection**: Developed a system to detect collisions between the self-driving car and obstacles or other cars.
-- **Neural Network**: Created an original neural network from scratch to process sensor inputs and decide car actions.
-- **Genetic Algorithm**: Utilized a genetic algorithm to evolve the neural network, improving the car's performance over generations.
-
-## Key Components
+## Key Features
 
 ### Car Driving Mechanics
 
