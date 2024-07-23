@@ -8,7 +8,7 @@ This project demonstrates a basic self-driving car simulation built from scratch
 ## Project Demo
 
 <video width="600" controls>
-  <source src="./Self_Driving_Car_Demo.mp4" type="video/mp4">
+  <source src="Self_Driving_Car_Demo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
