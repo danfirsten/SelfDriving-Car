@@ -21,7 +21,7 @@ class Road{
         ];
     }
 
-    getLanceCenter(laneIndex) {
+    getLaneCenter(laneIndex) {
         const laneWidth=this.width/this.laneCount;
         return this.left+laneWidth/2+
         Math.min(laneIndex, this.laneCount)*laneWidth;
