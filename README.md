@@ -7,7 +7,7 @@ This project demonstrates a basic self-driving car simulation built from scratch
 
 ## Project Demo
 
-<iframe width="600" height="400" src="https://youtu.be/uAULUd40EkE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="600" height="400" src="https://www.youtube.com/embed/uAULUd40EkE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Features
 
